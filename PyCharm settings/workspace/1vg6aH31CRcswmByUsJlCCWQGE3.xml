@@ -1,0 +1,269 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/bot/README.md" />
+      <option value="$PROJECT_DIR$/bot/validation.py" />
+      <option value="$PROJECT_DIR$/bot/requests/data.py" />
+      <option value="$PROJECT_DIR$/bot/main.py" />
+      <option value="$PROJECT_DIR$/bot/requests/lowprice.py" />
+      <option value="$PROJECT_DIR$/bot/requests/highprice.py" />
+      <option value="$PROJECT_DIR$/bot/requests/bestdeal.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_basic_diploma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic_diploma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_basic_diploma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic_diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_basic_diploma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic_diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17895000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14153944" />
+      <window_info id="Commit" order="3" weight="0.20069975" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.33032876" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.23806998" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14153944" />
+      <window_info id="Commit" order="3" weight="0.20069975" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.33032876" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.23806998" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="805" y="348" key="FileChooserDialogImpl" timestamp="1627371124179">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="805" y="348" key="FileChooserDialogImpl/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1627371124179" />
+    <state width="1528" height="196" key="GridCell.Tab.0.bottom" timestamp="1632325770775">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="196" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1630577800371" />
+    <state width="1528" height="196" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1632325770775" />
+    <state width="1528" height="196" key="GridCell.Tab.0.center" timestamp="1632325770775">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="196" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1630577800371" />
+    <state width="1528" height="196" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1632325770775" />
+    <state width="1528" height="196" key="GridCell.Tab.0.left" timestamp="1632325770775">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="196" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1630577800371" />
+    <state width="1528" height="196" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1632325770775" />
+    <state width="1528" height="196" key="GridCell.Tab.0.right" timestamp="1632325770775">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="196" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1630577800371" />
+    <state width="1528" height="196" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1632325770775" />
+    <state x="484" y="376" key="MultipleFileMergeDialog" timestamp="1628805894487">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="484" y="376" key="MultipleFileMergeDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628805894487" />
+    <state x="512" y="174" key="SettingsEditor" timestamp="1629463769483">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="512" y="174" key="SettingsEditor/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1629463769483" />
+    <state x="633" y="380" key="Vcs.Push.Dialog.v2" timestamp="1629193081742">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="633" y="380" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1629193081742" />
+    <state x="404" y="284" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1629194088244">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="404" y="284" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1629194088244" />
+    <state x="684" y="394" width="672" height="685" key="search.everywhere.popup" timestamp="1626971989594">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="684" y="394" width="672" height="685" key="search.everywhere.popup/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626971989594" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/config.py" />
+    <entry file="file://$PROJECT_DIR$/bot/requests/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/lowprice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="66" column="35" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="66" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/highprice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/bestdeal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/logging.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

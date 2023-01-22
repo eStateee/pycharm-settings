@@ -1,0 +1,89 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23140043" />
+      <window_info id="Structure" order="1" sideWeight="0.49947917" side_tool="true" weight="0.3298687" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" sideWeight="0.5005208" visible="true" weight="0.32999045" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3296439" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Packages" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Event Log</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="735" y="251" key="FileChooserDialogImpl" timestamp="1626712637537">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="735" y="251" key="FileChooserDialogImpl/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626712637537" />
+    <state x="57" y="292" key="Vcs.Push.Dialog.v2" timestamp="1626718063374">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="57" y="292" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626718063374" />
+    <state x="275" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626718094292">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="275" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626718094292" />
+    <state x="238" y="277" key="git4idea.branch.GitSmartOperationDialog" timestamp="1626717995659">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="238" y="277" key="git4idea.branch.GitSmartOperationDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626717995659" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my_venv/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/my_venv/bot/main.py" />
+    <entry file="file://$PROJECT_DIR$/my_venv/bot/README.md" />
+  </component>
+</project>

@@ -1,0 +1,943 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="python_advanced" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlite_python" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlite_python" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlite_python" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="tables" type="dcf0d525:DatabaseStructure$RegularFamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/routes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Dockerfile">
+      <summary usageCount="46" lastUsed="1665349911361" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="14" lastUsed="1665350013676" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="3" lastUsed="1662891500923" />
+    </fileType>
+    <fileType name="Ini">
+      <summary usageCount="7" lastUsed="1665348195908" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="16" lastUsed="1665350925587" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="11" lastUsed="1665348404852" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="24" lastUsed="1665350781865" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1661245623898" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="40" lastUsed="1665348654847" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>road</find>
+      <find>Room rec</find>
+      <find>e</find>
+      <find>update</find>
+      <find>get_book_by_id</find>
+      <find>_get_book_obj_from_row</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\User\PycharmProjects\python_advanced\module_20_orm_1\homework</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/module_16_db3/homework/hw1-2/hw1.py" />
+      <option value="$PROJECT_DIR$/module_16_db3/homework/hw6/hw6.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/generate_hw.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/materials/rest_app_example/app/schemas.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/materials/rest_app_example/app/routes.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/hw1/task.md" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/models.py" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/30ce00e2-349b-479a-8e77-845d4f144ec5/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6ae884a0-4de0-431b-be1a-f506a45adc41/console.sql" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/generate_db.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/materials/rest_app_example/app/models.py" />
+      <option value="70c5c30e-21a5-48d1-b10c-2c0840f2853e/schema/main/table/books.sql" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/book_models.py" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7384a2c8-46ea-4ba6-9bfe-67597c81b6ab/console.sql" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/author_models.py" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/materials/rest_app_example/app/routes_spec_aside_code.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/requirements.txt" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/materials/rest_app_example/app/routes_spec_inside_code.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/schemas.py" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/swagger.json" />
+      <option value="$PROJECT_DIR$/module_17_rest_api/homework/ready_hw/routes.py" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/materials/rest_app_example/clients.py" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/homework/hw2/hw_clients.py" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/homework/hw3/request'.py" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/homework/hw3/routes.py" />
+      <option value="$PROJECT_DIR$/module_18_mvc_03/homework/hw3/request.py" />
+      <option value="$PROJECT_DIR$/module_19_db4/homework/hw_1/hw1.txt" />
+      <option value="$PROJECT_DIR$/module_19_db4/homework/hw_4/hw4.txt" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/642da401-df09-422d-96d1-13fb2cd9a197/console.sql" />
+      <option value="$PROJECT_DIR$/module_20_orm_1/homework/test.py" />
+      <option value="$PROJECT_DIR$/module_20_orm_1/homework/routes.py" />
+      <option value="$PROJECT_DIR$/module_20_orm_1/homework/models.py" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/hw_1/task.md" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/Dockerfile" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/index.html" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/nginx_from_image.conf" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/hw_3/routes.py" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/hw_3_/requirements.txt" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/requirements.txt" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/hw_3_/src/routes.py" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/test_static/templates/index.html" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/test_static/index.html" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/test_static/Dockerfile" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/uwsgi.ini" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/test_static/nginx.conf" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/nginx.conf" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/test.html" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/templates/index.html" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/templates/index.html" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/Dockerfile" />
+      <option value="$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/routes.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="46" lastUsage="1665349911361" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="14" lastUsage="1665350013676" />
+    </language>
+    <language id="Ini">
+      <summary usageCount="7" lastUsage="1665348195908" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="16" lastUsage="1665350925587" />
+    </language>
+    <language id="Python">
+      <summary usageCount="24" lastUsage="1665350781865" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="11" lastUsage="1665348404852" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="40" lastUsage="1665348654847" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_wsgi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_wsgi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_wsgi" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="hw_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="test_static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="materials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="module_22_cgi_server" type="462c0819:PsiDirectoryNode" />
+              <item name="materials" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.routes (1)" executorId="Debug" />
+      <element setting="Python.routes (1)" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="sqlite_python: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="sqlite_python: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/module_14_mvc_01" commandHistoryFileName="python_advanced-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect - 2022.01.04 at 17h 21m 47s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect - 2022.01.04 at 17h 22m 17s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_redirect_manager_py - 2022.01.04 at 17h 22m 30s.xml">
+      <configuration name="Unittests in test_redirect_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_redirect_manager_py - 2022.01.04 at 17h 22m 45s.xml">
+      <configuration name="Unittests in test_redirect_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_redirect_manager_py - 2022.01.04 at 17h 23m 59s.xml">
+      <configuration name="Unittests in test_redirect_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect_test_redirect_to_file - 2022.01.04 at 17h 24m 34s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect.test_redirect_to_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect - 2022.01.04 at 17h 25m 10s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect_test_redirect_to_file - 2022.01.04 at 17h 26m 03s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect.test_redirect_to_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect - 2022.01.04 at 17h 26m 10s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_redirect_manager_Redirect - 2022.01.04 at 17h 26m 30s.xml">
+      <configuration name="Unittests for test_redirect_manager.Redirect" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="308196000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5005435" visible="true" weight="0.20943709" />
+      <window_info id="Structure" order="1" sideWeight="0.49945652" side_tool="true" weight="0.1376887" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.4277836" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Bookmarks" order="5" side_tool="true" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32995224" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32995224" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32932693" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.29182693" />
+      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.40035713" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32995224" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32995224" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32995224" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Python Packages" order="13" weight="0.32995224" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32875896" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" weight="0.32994187" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" weight="0.33028847" />
+      <window_info anchor="right" id="Database" order="0" weight="0.21087185" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5005435" visible="true" weight="0.159508" />
+      <window_info id="Structure" order="1" sideWeight="0.49945652" side_tool="true" weight="0.1376887" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.4277836" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Bookmarks" order="5" side_tool="true" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32995224" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32995224" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32932693" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.29182693" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40048078" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32995224" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32995224" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32995224" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Python Packages" order="13" weight="0.32995224" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32875896" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" weight="0.32994187" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" weight="0.33028847" />
+      <window_info anchor="right" id="Database" order="0" weight="0.21087185" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" side_tool="true" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Endpoints</value>
+      <value>Event Log</value>
+      <value>Python Console</value>
+      <value>Python Packages</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Find</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="-1240" y="281" key="#Notifications" timestamp="1661243236814">
+      <screen x="-1680" y="66" width="1680" height="1010" />
+    </state>
+    <state x="-1240" y="281" key="#Notifications/0.40.1920.1040/-1680.66.1680.1010@-1680.66.1680.1010" timestamp="1661243236814" />
+    <state x="721" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1661157496115">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="721" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1661157496115" />
+    <state x="-1284" y="203" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1661243185608">
+      <screen x="-1680" y="66" width="1680" height="1010" />
+    </state>
+    <state x="-1284" y="203" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1920.1040/-1680.66.1680.1010@-1680.66.1680.1010" timestamp="1661243185608" />
+    <state x="452" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1661242878215" />
+    <state x="912" y="359" key="FileChooserDialogImpl" timestamp="1665350012807">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="912" y="359" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1665350012807" />
+    <state width="2509" height="525" key="GridCell.Tab.0.bottom" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.0.bottom/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="1869" height="268" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1662202882781" />
+    <state width="2509" height="525" key="GridCell.Tab.0.center" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.0.center/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="1869" height="268" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1662202882781" />
+    <state width="2509" height="525" key="GridCell.Tab.0.left" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.0.left/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="1869" height="268" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1662202882781" />
+    <state width="2509" height="525" key="GridCell.Tab.0.right" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.0.right/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="1869" height="268" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1662202882781" />
+    <state width="2509" height="525" key="GridCell.Tab.1.bottom" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.1.bottom/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="2509" height="525" key="GridCell.Tab.1.center" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.1.center/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="2509" height="525" key="GridCell.Tab.1.left" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.1.left/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="2509" height="525" key="GridCell.Tab.1.right" timestamp="1664102400653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="525" key="GridCell.Tab.1.right/-1920.243.1920.1040/0.40.2560.1400@0.40.2560.1400" timestamp="1664102400653" />
+    <state width="299" height="548" key="HiddenNamespacesPopup" timestamp="1657450482571">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="299" height="548" key="HiddenNamespacesPopup/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1657450482571" />
+    <state x="184" y="125" width="1625" height="869" key="MergeDialog" timestamp="1657451164360">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="184" y="125" width="1625" height="869" key="MergeDialog/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1657451164360" />
+    <state x="579" y="307" key="MultipleFileMergeDialog" timestamp="1657451199191">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="579" y="307" key="MultipleFileMergeDialog/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1657451199191" />
+    <state x="523" y="235" key="SettingsEditor" timestamp="1665314662546">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="-1481" y="63" key="SettingsEditor/0.40.1920.1040/-1680.66.1680.1010@-1680.66.1680.1010" timestamp="1661243249196" />
+    <state x="392" y="185" key="SettingsEditor/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1661256303093" />
+    <state x="523" y="235" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1665314662546" />
+    <state x="582" y="322" width="816" height="534" key="Vcs.Push.Dialog.v2" timestamp="1661162661814">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="582" y="322" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1661162661814" />
+    <state x="660" y="192" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1657271127460">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="660" y="192" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1657271127460" />
+    <state x="846" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662196890756">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="846" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1662196890756" />
+    <state x="689" y="51" width="717" height="1029" key="find.popup" timestamp="1660661003211">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="689" y="51" width="717" height="1029" key="find.popup/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1660661003211" />
+    <state x="624" y="317" width="672" height="685" key="search.everywhere.popup" timestamp="1657787726593">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="624" y="317" width="672" height="685" key="search.everywhere.popup/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1657787726593" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i_word='basement'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i_word=='basement'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i=='basement'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j='basement'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j=='basement'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j==</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9865eb78-0d24-4176-92e7-078bc0089d73/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9865eb78-0d24-4176-92e7-078bc0089d73/schema/main/table/receiving_books">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1661152080084" presentationMode="TABLE" projectRestartId="7af85c86-34cc-4d70-b4ae-f0ff334f4617" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="date_of_borrowing" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_21_orm_2/practice/practice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_20_orm_1/materials/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/93574e47-a140-4e55-819a-88736a09a47b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://93574e47-a140-4e55-819a-88736a09a47b/schema/main/table/books" />
+    <entry file="file://$PROJECT_DIR$/module_20_orm_1/homework/test.py" />
+    <entry file="das://9865eb78-0d24-4176-92e7-078bc0089d73/schema/main/table/authors">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1661158076170" presentationMode="TABLE" projectRestartId="850cb73f-2ddc-43c2-aa59-7346b8dfb0f1" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9865eb78-0d24-4176-92e7-078bc0089d73/schema/main/table/books">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1661159700865" presentationMode="TABLE" projectRestartId="850cb73f-2ddc-43c2-aa59-7346b8dfb0f1" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="release_date" />
+            <sort text="release_date DESC" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9865eb78-0d24-4176-92e7-078bc0089d73/schema/main/table/students">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1661162396331" presentationMode="TABLE" projectRestartId="850cb73f-2ddc-43c2-aa59-7346b8dfb0f1" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="average_score DESC" />
+            <sort text="community" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_20_orm_1/homework/task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state is_vertical_split="false">
+          <first_editor relative-caret-position="284">
+            <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_21_orm_2/homework/task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_20_orm_1/homework/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_09_docker/materials/test_application/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/supervisord.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_06_debugging_begin/hw_check/run_in_subprocess_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_1/task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="true">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_09_docker/materials/test_application/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_09_docker/materials/new_year_application/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_3_/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_3_/uwsgi.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_3_/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_3_/src/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_3/img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/default.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="15" lean-forward="true" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/nginx_from_image.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/test_static/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/test_static/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/supervisord.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/uwsgi.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/static_files_serving/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/req.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/test_static/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="24" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="4" selection-start-line="7" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_20_orm_1/homework/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/materials/wsgi/src/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_3/task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/hw_2/task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_22_cgi_server/homework/custom_wsgi/src/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

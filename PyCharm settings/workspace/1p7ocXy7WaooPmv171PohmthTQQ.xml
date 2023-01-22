@@ -1,0 +1,536 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/migrations/0001_initial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/templates/advertisements/advertisements_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\User\PycharmProjects\python_django</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/views.py" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/urls.py" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/main.html" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/task2/urls.py" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/task2/settings.py" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/first_article.html" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/sec_article.html" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/third_article.html" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/fourth_article.html" />
+      <option value="$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/five_article.html" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/board/settings.py" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/board/logging_middleware/logging.py" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/advertisement_list.html" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/contacts.html" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/about.html" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/views.py" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/main.html" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/models.py" />
+      <option value="$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/urls.py" />
+      <option value="$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/urls.py" />
+      <option value="$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/models.py" />
+      <option value="$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/views.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="60" y="132" width="1795" height="913" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DatabasesAndModels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DatabasesAndModels" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DatabasesAndModels" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+              <item name="advertisements_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DatabasesAndModels" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+              <item name="advertisements_app" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DatabasesAndModels" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+              <item name="advertisements_app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DatabasesAndModels" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+              <item name="advertisements_app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="advertisements" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5006614" visible="true" weight="0.18811028" />
+      <window_info id="Structure" order="1" sideWeight="0.49933863" side_tool="true" weight="0.18811028" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.3294084" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.329602" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32966396" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.38557214" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32966396" />
+      <window_info anchor="bottom" id="Python Packages" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" weight="0.33011365" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18811028" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32956523" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.329602" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32966396" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.38557214" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32966396" />
+      <window_info anchor="bottom" id="Python Packages" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Services</value>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="717" y="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625176194138">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="717" y="390" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625176194138" />
+    <state x="615" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1626889738504">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="615" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626889738504" />
+    <state x="160" y="232" width="1595" height="713" key="DiffContextDialog" timestamp="1625176197069">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="160" y="232" width="1595" height="713" key="DiffContextDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625176197069" />
+    <state x="737" y="343" key="FileChooserDialogImpl" timestamp="1626888530633">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="737" y="343" key="FileChooserDialogImpl/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626888530633" />
+    <state width="1757" height="282" key="GridCell.Tab.0.bottom" timestamp="1625176235665">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1757" height="282" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625176235665" />
+    <state width="1757" height="282" key="GridCell.Tab.0.center" timestamp="1625176235665">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1757" height="282" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625176235665" />
+    <state width="1757" height="282" key="GridCell.Tab.0.left" timestamp="1625176235665">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1757" height="282" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625176235665" />
+    <state width="1757" height="282" key="GridCell.Tab.0.right" timestamp="1625176235665">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1757" height="282" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625176235665" />
+    <state x="549" y="321" key="Vcs.Push.Dialog.v2" timestamp="1626893089350">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="549" y="321" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626893089350" />
+    <state x="775" y="502" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626974704535">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="775" y="502" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626974704535" />
+    <state x="681" y="347" width="672" height="685" key="search.everywhere.popup" timestamp="1626974702569">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="681" y="347" width="672" height="685" key="search.everywhere.popup/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626974702569" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_IntroductionToWebFrameworks/01_IntroductionToWebFrameworks - Ярлык.lnk">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_IntroductionToWebFrameworks/simple_http_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_IntroductionToWebFrameworks/todo/tasks/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_IntroductionToWebFrameworks/todo/tasks/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_IntroductionToWebFrameworks/todo/tasks/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/img/data.png" />
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/img/img.png" />
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/images/data_science.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/images/java.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/images/one_c.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/images/qa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/images/web.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/first_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/sec_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/third_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/fourth_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/articles/templates/articles/five_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/task2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_IntroductionToDjango/task2/task2/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/board/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/board/logging_middleware/logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/board/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="59" lean-forward="true" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/data.txt" />
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/templates/advertisements/advertisement_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="53" column="47" lean-forward="true" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_RequestsHandlingInDjango/board/advertisements/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/board/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/templates/advertisements/advertisements_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DatabasesAndModels/board/advertisements_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

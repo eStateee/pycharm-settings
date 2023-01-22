@@ -1,0 +1,27 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\PdfEditor" value="true" />
+        <entry key="C:\Users\User\Desktop\end\infinite-scroll" value="true" />
+        <entry key="C:\Users\User\PycharmProjects\python_advanced" value="true" />
+        <entry key="C:\converter" value="true" />
+        <entry key="C:\dj_practice\EndLessPagination" value="true" />
+        <entry key="C:\dj_practice\UpdateProfile" value="true" />
+        <entry key="C:\down" value="true" />
+        <entry key="C:\logs" value="true" />
+        <entry key="C:\meta" value="true" />
+        <entry key="C:\python_django_diploma\Megano" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\User\PycharmProjects" />
+        <option value="C:\python_django_diploma" />
+        <option value="C:\" />
+      </list>
+    </option>
+  </component>
+</application>

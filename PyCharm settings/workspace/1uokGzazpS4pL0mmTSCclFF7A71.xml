@@ -1,0 +1,424 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module31/06_web_scrapping/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/decorator.txt" />
+      <option value="$PROJECT_DIR$/S.py" />
+      <option value="$PROJECT_DIR$/Module29/04_decorated_world/main.py" />
+      <option value="$PROJECT_DIR$/Module29/05_singleton/main.py" />
+      <option value="$PROJECT_DIR$/Module29/03_format_logging/test.py" />
+      <option value="$PROJECT_DIR$/Module29/03_format_logging/main.py" />
+      <option value="$PROJECT_DIR$/Module29/01_permissions/main.py" />
+      <option value="$PROJECT_DIR$/Module29/02_callback/main.py" />
+      <option value="$PROJECT_DIR$/ыаыва.py" />
+      <option value="$PROJECT_DIR$/Module30/01_new_lists/main.py" />
+      <option value="$PROJECT_DIR$/Module30/03_zip_again/main.py" />
+      <option value="$PROJECT_DIR$/Module30/04_code_readability/main.py" />
+      <option value="$PROJECT_DIR$/Module30/05_palindrome_the_return/main.py" />
+      <option value="$PROJECT_DIR$/Module30/02_timeit/main.py" />
+      <option value="$PROJECT_DIR$/Module31/05_pin_code/main.py" />
+      <option value="$PROJECT_DIR$/Module31/06_web_scrapping/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-1537" y="250" width="1454" height="713" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Module31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Module31" type="462c0819:PsiDirectoryNode" />
+              <item name="06_web_scrapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11318277" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.31520042" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3283654" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.31540698" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Python Packages" order="6" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.40048078" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978725" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Python Packages</value>
+      <value>Debug</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="685" y="373" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625488184193">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="685" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625488184193" />
+    <state x="92" y="132" width="1736" height="856" key="DiffContextDialog" timestamp="1626126196341">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="92" y="132" width="1736" height="856" key="DiffContextDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626126196341" />
+    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1625591604501">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625591604501" />
+    <state width="1882" height="297" key="GridCell.Tab.0.bottom" timestamp="1626128572994">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1416" height="204" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.69.1680.1010@-1680.69.1680.1010" timestamp="1625417058802" />
+    <state width="1882" height="297" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626128572994" />
+    <state width="1882" height="297" key="GridCell.Tab.0.center" timestamp="1626128572994">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1416" height="204" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.69.1680.1010@-1680.69.1680.1010" timestamp="1625417058802" />
+    <state width="1882" height="297" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626128572994" />
+    <state width="1882" height="297" key="GridCell.Tab.0.left" timestamp="1626128572994">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1416" height="204" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.69.1680.1010@-1680.69.1680.1010" timestamp="1625417058802" />
+    <state width="1882" height="297" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626128572994" />
+    <state width="1882" height="297" key="GridCell.Tab.0.right" timestamp="1626128572994">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1416" height="204" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.69.1680.1010@-1680.69.1680.1010" timestamp="1625417058802" />
+    <state width="1882" height="297" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626128572994" />
+    <state width="1899" height="388" key="GridCell.Tab.1.bottom" timestamp="1625582483999">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="388" key="GridCell.Tab.1.bottom/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625582483999" />
+    <state width="1899" height="388" key="GridCell.Tab.1.center" timestamp="1625582483999">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="388" key="GridCell.Tab.1.center/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625582483999" />
+    <state width="1899" height="388" key="GridCell.Tab.1.left" timestamp="1625582483999">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="388" key="GridCell.Tab.1.left/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625582483999" />
+    <state width="1899" height="388" key="GridCell.Tab.1.right" timestamp="1625582483999">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="388" key="GridCell.Tab.1.right/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625582483999" />
+    <state x="184" y="125" key="MergeDialog" timestamp="1626090079155">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="184" y="125" key="MergeDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626090079155" />
+    <state x="453" y="239" key="SettingsEditor" timestamp="1625417700001">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="453" y="239" key="SettingsEditor/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625417700001" />
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2" timestamp="1626090138363">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626090138363" />
+    <state x="769" y="508" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626126109024">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="769" y="508" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626126109024" />
+    <state x="-1680" y="89" width="1696" height="860" key="dock-window-1" timestamp="1625504213296">
+      <screen x="-1680" y="69" width="1680" height="1010" />
+    </state>
+    <state x="-1680" y="89" width="1696" height="860" key="dock-window-1/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1625504213296" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Module28/01_work_with_file_2/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Module28/01_work_with_file_2/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module28/03_modeling/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid15744.log" />
+    <entry file="file://$PROJECT_DIR$/Module29/01_permissions/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/04_decorated_world/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/05_singleton/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/05_singleton/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/03_format_logging/test.py" />
+    <entry file="file://$PROJECT_DIR$/Module29/03_format_logging/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/04_decorated_world/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/01_permissions/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/02_callback/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module29/02_callback/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S.py" />
+    <entry file="file://$PROJECT_DIR$/Module29/03_format_logging/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ыаыва.py" />
+    <entry file="file://$PROJECT_DIR$/Module30/01_new_lists/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/01_new_lists/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/03_zip_again/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/03_zip_again/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/04_code_readability/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/04_code_readability/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/05_palindrome_the_return/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/05_palindrome_the_return/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/02_timeit/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module30/02_timeit/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/01_lorem_ipsum/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/06_web_scrapping/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/04_phone_numbers/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/02_registration_marks/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/03_breaking_bad/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/05_pin_code/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module31/06_web_scrapping/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

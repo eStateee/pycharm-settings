@@ -1,0 +1,1 @@
+DELETE FROM requests WHERE 1< id<10

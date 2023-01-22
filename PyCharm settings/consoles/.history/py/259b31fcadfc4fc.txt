@@ -1,0 +1,51 @@
+'.'.isalpha()
+-. . -..- - / . -. - .-. -.--
+' '.isalpha()
+-. . -..- - / . -. - .-. -.--
+'ad'.isalpha()
+-. . -..- - / . -. - .-. -.--
+a = [i for i in range(10)]
+-. . -..- - / . -. - .-. -.--
+a = [i for i in range(-16,-20)]
+-. . -..- - / . -. - .-. -.--
+a = [i for i in range(16,20)]
+-. . -..- - / . -. - .-. -.--
+a = [i*(-1) for i in range(16,20)]
+-. . -..- - / . -. - .-. -.--
+a = [i for i in range(-20,-16)]
+-. . -..- - / . -. - .-. -.--
+a = [i for i in range(-20,-15)]
+-. . -..- - / . -. - .-. -.--
+time.time
+-. . -..- - / . -. - .-. -.--
+import time
+-. . -..- - / . -. - .-. -.--
+time.time()
+-. . -..- - / . -. - .-. -.--
+time.strftime()
+-. . -..- - / . -. - .-. -.--
+time.time_ns()
+-. . -..- - / . -. - .-. -.--
+time.localtime()
+-. . -..- - / . -. - .-. -.--
+import datetime
+-. . -..- - / . -. - .-. -.--
+datetime.datetime.now()
+-. . -..- - / . -. - .-. -.--
+datetime.date.now()
+-. . -..- - / . -. - .-. -.--
+datetime.date
+-. . -..- - / . -. - .-. -.--
+datetime.date.today()
+-. . -..- - / . -. - .-. -.--
+datetime.date.today() - datetime.date.today()
+-. . -..- - / . -. - .-. -.--
+datetime.date.today() - datetime.timedelt(days=14)
+-. . -..- - / . -. - .-. -.--
+datetime.date.today() - datetime.timedelta(days=14)
+-. . -..- - / . -. - .-. -.--
+a = datetime.date(2022, 8, 3)
+-. . -..- - / . -. - .-. -.--
+a
+-. . -..- - / . -. - .-. -.--
+datetime.date.today() - a

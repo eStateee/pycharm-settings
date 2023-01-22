@@ -1,0 +1,1 @@
+select salary from salaries order by salary DESC

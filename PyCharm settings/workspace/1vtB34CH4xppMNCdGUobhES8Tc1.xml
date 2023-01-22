@@ -1,0 +1,653 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="tables" type="dcf0d525:DatabaseStructure$RegularFamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DetailView</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/models.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/admin.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/serializers.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/urls.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/templates/books/book_list.html" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/filters.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/app_library/views.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/requirements.txt" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/djlibrary/urls.py" />
+      <option value="$PROJECT_DIR$/13_IntroductionToDjangoRESTFramework/djlibrary/djlibrary/settings.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/djcaching/urls.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/users/account.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/main.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/forms.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/base.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/products/detail_product.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/templates/order/succes_order.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/urls.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/models.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/templates/cart/detail.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/cart.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/locale/ru/LC_MESSAGES/django.po" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/locale/ru/LC_MESSAGES/django.po" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/qew.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/products/top_sale_list.html" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/q.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/views.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/urls.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/djcaching/settings.py" />
+      <option value="$PROJECT_DIR$/loger.py" />
+      <option value="$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/views.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/css/style.css" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/static/css/style.css" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/main/main_page.html" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/accommodation/list_view.html" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/accommodation/detail_view.html" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/main/contacts.html" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/main/about_us.html" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/rooms.json" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/types.json" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/sitemap.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/news/detail_view.html" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/views.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_rss/admin.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/admin.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/property/settings.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/property/urls.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_rss/urls.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/urls.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_sale/models.py" />
+      <option value="$PROJECT_DIR$/18_PropertySale/property/app_rss/feeds.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="18_PropertySale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="18_PropertySale" type="462c0819:PsiDirectoryNode" />
+              <item name="property" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django" type="462c0819:PsiDirectoryNode" />
+              <item name="18_PropertySale" type="462c0819:PsiDirectoryNode" />
+              <item name="property" type="462c0819:PsiDirectoryNode" />
+              <item name="property" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db.sqlite3: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db.sqlite3: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="python_django-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="203487000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1304222" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.21255061" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32954544" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3297143" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3297143" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3295858" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicates" order="7" weight="0.6775148" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.40057144" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.329582" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Python Console" order="16" weight="0.32954544" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" weight="0.36709538" />
+      <window_info anchor="right" id="Database" order="0" weight="0.14835164" />
+      <window_info anchor="right" id="SciView" order="1" show_stripe_button="false" weight="0.33017242" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1304222" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.21255061" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32954544" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3297143" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3297143" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3295858" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicates" order="7" weight="0.6775148" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.40057144" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.329582" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Python Console" order="16" weight="0.32954544" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" weight="0.36709538" />
+      <window_info anchor="right" id="Database" order="0" weight="0.14835164" />
+      <window_info anchor="right" id="SciView" order="1" show_stripe_button="false" weight="0.33017242" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Event Log</value>
+      <value>TODO</value>
+      <value>Duplicates</value>
+      <value>SciView</value>
+      <value>Version Control</value>
+      <value>Python Console</value>
+      <value>Services</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="649" y="300" width="650" height="524" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645210373156">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="649" y="300" width="650" height="524" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1645210373156" />
+    <state x="754" y="332" key="FileChooserDialogImpl" timestamp="1645210370450">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="754" y="332" key="FileChooserDialogImpl/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1645210370450" />
+    <state width="1685" height="322" key="GridCell.Tab.0.bottom" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.0.center" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.0.left" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.0.right" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.1.bottom" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.1.bottom/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.1.center" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.1.center/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.1.left" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.1.left/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state width="1685" height="322" key="GridCell.Tab.1.right" timestamp="1644847326736">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1685" height="322" key="GridCell.Tab.1.right/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644847326736" />
+    <state x="191" y="132" key="MergeDialog" timestamp="1643207962578">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="191" y="132" key="MergeDialog/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1643207962578" />
+    <state x="601" y="321" key="MultipleFileMergeDialog" timestamp="1643207962584">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="601" y="321" key="MultipleFileMergeDialog/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1643207962584" />
+    <state x="517" y="278" width="998" height="708" key="SettingsEditor" timestamp="1645308301714">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="517" y="278" width="998" height="708" key="SettingsEditor/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1645308301714" />
+    <state x="621" y="292" key="Vcs.Push.Dialog.v2" timestamp="1644683658249">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="621" y="292" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1644683658249" />
+    <state x="546" y="206" key="com.intellij.database.dbimport.ImportDialog" timestamp="1642596601497">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="546" y="206" key="com.intellij.database.dbimport.ImportDialog/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1642596601497" />
+    <state x="468" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1645209140982">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="468" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1645209140982" />
+    <state x="791" y="491" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646046070671">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="791" y="491" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1646046070671" />
+    <state x="613" y="312" width="672" height="685" key="search.everywhere.popup" timestamp="1643209907192">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="613" y="312" width="672" height="685" key="search.everywhere.popup/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1643209907192" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/templates/order/success_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/products/detail_product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/templates/cart/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/locale/ru/LC_MESSAGES/django.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="208" column="25" selection-start-line="208" selection-start-column="25" selection-end-line="208" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/locale/ru/LC_MESSAGES/django.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/qew.py" />
+    <entry file="das://c4c1c885-f66d-44c6-9ae0-9a8c03311e20/schema/main/table/app_shop_order" />
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/products/top_sale_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/log.log" />
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/q.py" />
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/spam.log" />
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/cart/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="67" column="77" selection-start-line="67" selection-start-column="77" selection-end-line="67" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c4c1c885-f66d-44c6-9ae0-9a8c03311e20/schema/main/table/app_shop_shop" />
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/djcaching/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="152" column="14" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/loger.py.txt" />
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/logs/log.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="459">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loger.py" />
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="61" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/templates/shops/all_shops.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b00508db-a171-4fe0-a18f-39a1892d49dd/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://b00508db-a171-4fe0-a18f-39a1892d49dd/schema/main/table/app_sale_accommodation">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1645210379917" presentationMode="TABLE" projectRestartId="e08635b4-a667-43eb-a42e-9f6a74617d3c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_DjangoCaching/djcaching/app_shop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="146" column="22" lean-forward="true" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/accommodation/list_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/accommodation/detail_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/main/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/main/about_us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/main/main_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/fixtures/types.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/fixtures/rooms.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_DataExport/djsale/app_rss/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_DataExport/djsale/app_sitemap/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/sitemap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_rss/admin.py" />
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/templates/news/detail_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/property/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+          <folding>
+            <element signature="e#306#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_rss/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_rss/feeds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/app_sale/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_PropertySale/property/property/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

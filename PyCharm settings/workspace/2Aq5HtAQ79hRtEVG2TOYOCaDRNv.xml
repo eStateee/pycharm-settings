@@ -1,0 +1,195 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Train 2/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/requirements.txt" />
+      <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/Train 2/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parsing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6035000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25013012" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Python Packages" order="13" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="586" y="160" key="#Inspections" timestamp="1655724826080">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="586" y="160" key="#Inspections/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1655724826080" />
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom" timestamp="1655730319779">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1655730319779" />
+    <state width="1877" height="315" key="GridCell.Tab.0.center" timestamp="1655730319779">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1655730319779" />
+    <state width="1877" height="315" key="GridCell.Tab.0.left" timestamp="1655730319779">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1655730319779" />
+    <state width="1877" height="315" key="GridCell.Tab.0.right" timestamp="1655730319779">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.66.1680.1010@0.40.1920.1040" timestamp="1655730319779" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train 1/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train 1/ful_prods.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281571">
+          <caret line="1622" selection-start-line="1622" selection-end-line="1622" />
+          <folding>
+            <element signature="e#25#16922#0" />
+            <element signature="e#16939#39032#0" />
+            <element signature="e#39056#53025#0" />
+            <element signature="e#53054#108662#0" />
+            <element signature="e#108677#110312#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train 1/titles.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054">
+          <caret line="3" column="70" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train 1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#68954#69083#0" expanded="true" />
+            <element signature="e#71397#71526#0" expanded="true" />
+            <element signature="e#73716#73845#0" expanded="true" />
+            <element signature="e#76838#76967#0" expanded="true" />
+            <element signature="e#81257#81386#0" expanded="true" />
+            <element signature="e#83335#83464#0" expanded="true" />
+            <element signature="e#86028#86157#0" expanded="true" />
+            <element signature="e#88263#88392#0" expanded="true" />
+            <element signature="e#90100#90229#0" expanded="true" />
+            <element signature="e#93266#93395#0" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#3;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#129086#129215#0" expanded="true" />
+            <element signature="e#131529#131658#0" expanded="true" />
+            <element signature="e#133848#133977#0" expanded="true" />
+            <element signature="e#136970#137099#0" expanded="true" />
+            <element signature="e#141389#141518#0" expanded="true" />
+            <element signature="e#143467#143596#0" expanded="true" />
+            <element signature="e#146160#146289#0" expanded="true" />
+            <element signature="e#148395#148524#0" expanded="true" />
+            <element signature="e#150232#150361#0" expanded="true" />
+            <element signature="e#153398#153527#0" expanded="true" />
+            <element signature="e#164013#164019#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train 2/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

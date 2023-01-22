@@ -1,0 +1,1 @@
+delete from author where author_id = 3

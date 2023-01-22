@@ -1,0 +1,384 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="meta" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSV/TSV">
+      <summary usageCount="17" lastUsed="1669152528792" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1666691292541" />
+    </fileType>
+    <fileType name="Log">
+      <summary usageCount="6" lastUsed="1669712596442" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1669721283021" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="9" lastUsed="1669721281093" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="170" lastUsed="1674077114661" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_compa</find>
+      <find>get_com</find>
+      <find>company_a</find>
+      <find>redact</find>
+      <find>TEMP</find>
+      <find>re</find>
+      <find>redact_d</find>
+      <find>required</find>
+      <find>tkinter</find>
+    </findStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/test.csv" />
+      <option value="$PROJECT_DIR$/temp.py" />
+      <option value="$PROJECT_DIR$/qwe.py" />
+      <option value="$PROJECT_DIR$/meta_c.py" />
+      <option value="$PROJECT_DIR$/company_info.csv" />
+      <option value="$PROJECT_DIR$/qwe/pasp.py" />
+      <option value="$PROJECT_DIR$/pasp.py" />
+      <option value="$PROJECT_DIR$/zxczxcxzc.py" />
+      <option value="$PROJECT_DIR$/q.py" />
+      <option value="$PROJECT_DIR$/t.py" />
+      <option value="$PROJECT_DIR$/constants.py" />
+      <option value="$PROJECT_DIR$/templates/company_info.csv" />
+      <option value="$PROJECT_DIR$/req.txt" />
+      <option value="$PROJECT_DIR$/logs.log" />
+      <option value="$PROJECT_DIR$/pdf_services.py" />
+      <option value="$PROJECT_DIR$/services.py" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/preload.py" />
+      <option value="$PROJECT_DIR$/req1.txt" />
+      <option value="$PROJECT_DIR$/preload_req.txt" />
+      <option value="$PROJECT_DIR$/README.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1666691292541" />
+    </language>
+    <language id="LOG">
+      <summary usageCount="6" lastUsage="1669712596442" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1669721283021" />
+    </language>
+    <language id="Python">
+      <summary usageCount="170" lastUsage="1674077114662" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="26" lastUsage="1669721281093" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="main.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PdfEditor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.preload" executorId="Run" />
+      <element setting="Python.main" executorId="Run" />
+      <element setting="Python.services" executorId="Run" />
+      <element setting="Python.t" executorId="Run" />
+      <element setting="Python.pdf_services" executorId="Run" />
+      <element setting="Python.q" executorId="Run" />
+      <element setting="Python.zxczxcxzc" executorId="Run" />
+      <element setting="Python.pasp" executorId="Run" />
+      <element setting="Python.pasp (1)" executorId="Run" />
+      <element setting="Python.pasp" executorId="ConcurrencyExecutor" />
+      <element setting="Python.meta_c" executorId="Run" />
+      <element setting="Python.qwe" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="main.py-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118565000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" weight="0.33014446" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.13451776" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32964286" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3610714" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.33035713" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33297414" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="Duplicates" order="12" weight="0.33035713" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32987848" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.29383054" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32987848" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3610714" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33297414" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="Duplicates" order="12" weight="0.33035713" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32987848" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>Concurrent Activities Diagram</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="960" y="496" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1667375779865">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="960" y="496" key="#com.intellij.fileTypes.FileTypeChooser/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1667375779865" />
+    <state x="960" y="580" width="688" height="319" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1674076516079">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="960" y="580" width="688" height="319" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1674076516079" />
+    <state x="1033" y="432" key="FileChooserDialogImpl" timestamp="1674077169441">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1033" y="432" key="FileChooserDialogImpl/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1674077169441" />
+    <state x="1007" y="436" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1666696673696" />
+    <state width="2509" height="470" key="GridCell.Tab.0.bottom" timestamp="1669721473308">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="470" key="GridCell.Tab.0.bottom/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669721473308" />
+    <state width="2509" height="470" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1666698069774" />
+    <state width="2509" height="470" key="GridCell.Tab.0.center" timestamp="1669721473308">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="470" key="GridCell.Tab.0.center/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669721473308" />
+    <state width="2509" height="470" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1666698069774" />
+    <state width="2509" height="470" key="GridCell.Tab.0.left" timestamp="1669721473308">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="470" key="GridCell.Tab.0.left/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669721473308" />
+    <state width="2509" height="470" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1666698069774" />
+    <state width="2509" height="470" key="GridCell.Tab.0.right" timestamp="1669721473308">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2509" height="470" key="GridCell.Tab.0.right/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669721473308" />
+    <state width="2509" height="470" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1666698069774" />
+    <state x="668" y="292" key="SettingsEditor" timestamp="1674076494247">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="668" y="292" key="SettingsEditor/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1674076494247" />
+    <state x="768" y="407" key="Vcs.Push.Dialog.v2" timestamp="1669721375477">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="768" y="407" key="Vcs.Push.Dialog.v2/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669721375477" />
+    <state x="897" y="295" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1665491188675">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="897" y="295" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1665491188675" />
+    <state x="1499" y="344" width="838" height="81" key="search.everywhere.popup" timestamp="1668357542602">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1499" y="344" width="838" height="81" key="search.everywhere.popup/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1668357542602" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.csv" />
+    <entry file="file://$PROJECT_DIR$/temp.py" />
+    <entry file="file://$PROJECT_DIR$/qwe.py" />
+    <entry file="file://$PROJECT_DIR$/meta_c.py" />
+    <entry file="file://$PROJECT_DIR$/old_main.py" />
+    <entry file="file://$PROJECT_DIR$/company_info.csv" />
+    <entry file="file://$PROJECT_DIR$/qwe/pasp.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zxczxcxzc.py" />
+    <entry file="file://$PROJECT_DIR$/pasp.py" />
+    <entry file="file://$PROJECT_DIR$/console.py" />
+    <entry file="file://$PROJECT_DIR$/q.py" />
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/PySimpleGUI/PySimpleGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="1882" column="13" lean-forward="true" selection-start-line="1882" selection-start-column="13" selection-end-line="1882" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/company_info.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs.log" />
+    <entry file="file://$PROJECT_DIR$/pdf_services.py" />
+    <entry file="file://$PROJECT_DIR$/logs/log.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="189">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.py" />
+    <entry file="file://$PROJECT_DIR$/preload.py" />
+    <entry file="file://$PROJECT_DIR$/preload_req.txt" />
+    <entry file="file://$PROJECT_DIR$/req.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="82" lean-forward="true" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+DELETE FROM profile_app_profile where phone='+375 25 933 11 75'

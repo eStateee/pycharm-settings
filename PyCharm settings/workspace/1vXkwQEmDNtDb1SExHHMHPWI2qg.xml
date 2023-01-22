@@ -1,0 +1,580 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="tables" type="dcf0d525:DatabaseStructure$RegularFamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot/requests/highprice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1e1d7524-7f49-4a19-a4a3-4f9f3faef5ea/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://1e1d7524-7f49-4a19-a4a3-4f9f3faef5ea/schema/main/table/requests">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1633800209477" presentationMode="TABLE" projectRestartId="5c303543-525c-4841-a8b8-8c1bf772ccbe" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot/requests/lowprice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/bot/lowprice.py" />
+      <option value="$PROJECT_DIR$/bot/requests/__init__.py" />
+      <option value="$PROJECT_DIR$/bot/requests/locale.json" />
+      <option value="$PROJECT_DIR$/bot/data.py" />
+      <option value="$PROJECT_DIR$/bot/requests/test.py" />
+      <option value="$PROJECT_DIR$/bot/main_test.py" />
+      <option value="$PROJECT_DIR$/bot/requests/highprice.py" />
+      <option value="$PROJECT_DIR$/bot/requests/data.py" />
+      <option value="$PROJECT_DIR$/bot/requests/bestdeal.py" />
+      <option value="$PROJECT_DIR$/bot/validation.py" />
+      <option value="$PROJECT_DIR$/bot/README.md" />
+      <option value="$PROJECT_DIR$/bot/.env" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ef1af265-edfc-46f4-92e6-ec0c7c2a49a4/console.sql" />
+      <option value="$PROJECT_DIR$/bot/models.py" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1e1d7524-7f49-4a19-a4a3-4f9f3faef5ea/console.sql" />
+      <option value="$PROJECT_DIR$/bot/main.py" />
+      <option value="$PROJECT_DIR$/bot/requests/lowprice.py" />
+      <option value="$PROJECT_DIR$/requirements.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my_diplom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_diplom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_diplom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_diplom" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_diplom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_diplom" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\my_diplom\" commandHistoryFileName="my_diplom-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78456000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26960152" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.19762212" />
+      <window_info id="Pull Requests" order="4" weight="0.32983458" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3296439" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.17100978" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32987142" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3998906" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32987142" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" weight="0.3298687" />
+      <window_info anchor="bottom" id="Services" order="16" weight="0.32987142" />
+      <window_info anchor="right" id="Database" order="0" weight="0.24866943" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14044943" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.19778481" />
+      <window_info id="Pull Requests" order="4" weight="0.32983458" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3296439" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.2636004" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32994187" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3998906" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" weight="0.3298687" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Python Console</value>
+      <value>Debug</value>
+      <value>Event Log</value>
+      <value>Pull Requests</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="563" y="350" width="844" height="522" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633517141427">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="563" y="350" width="844" height="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626718581607" />
+    <state x="563" y="350" width="844" height="522" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633517141427" />
+    <state x="753" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633799221019">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="753" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633799221019" />
+    <state x="225" y="164" width="1460" height="666" key="DiffContextDialog" timestamp="1626716543758">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="225" y="164" width="1460" height="666" key="DiffContextDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626716543758" />
+    <state x="1264" y="318" key="FileChooserDialogImpl" timestamp="1633517123234">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1264" y="318" key="FileChooserDialogImpl/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626961143666" />
+    <state x="1264" y="318" key="FileChooserDialogImpl/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633517123234" />
+    <state width="1512" height="129" key="GridCell.Tab.0.bottom" timestamp="1633813022032">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="238" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628807265173" />
+    <state width="1512" height="129" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633813022032" />
+    <state width="1512" height="129" key="GridCell.Tab.0.center" timestamp="1633813022031">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="238" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628807265173" />
+    <state width="1512" height="129" key="GridCell.Tab.0.center/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633813022031" />
+    <state width="1512" height="129" key="GridCell.Tab.0.left" timestamp="1633813022031">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="238" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628807265173" />
+    <state width="1512" height="129" key="GridCell.Tab.0.left/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633813022031" />
+    <state width="1512" height="129" key="GridCell.Tab.0.right" timestamp="1633813022031">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="238" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628807265173" />
+    <state width="1512" height="129" key="GridCell.Tab.0.right/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633813022031" />
+    <state width="1647" height="337" key="GridCell.Tab.1.bottom" timestamp="1628155522152">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="337" key="GridCell.Tab.1.bottom/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628155522152" />
+    <state width="1647" height="337" key="GridCell.Tab.1.center" timestamp="1628155522152">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="337" key="GridCell.Tab.1.center/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628155522152" />
+    <state width="1647" height="337" key="GridCell.Tab.1.left" timestamp="1628155522151">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="337" key="GridCell.Tab.1.left/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628155522151" />
+    <state width="1647" height="337" key="GridCell.Tab.1.right" timestamp="1628155522152">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1647" height="337" key="GridCell.Tab.1.right/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628155522152" />
+    <state x="200" y="126" key="MergeDialog" timestamp="1626973683684">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="200" y="126" key="MergeDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626973683684" />
+    <state x="610" y="315" key="MultipleFileMergeDialog" timestamp="1626973683689">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="610" y="315" key="MultipleFileMergeDialog/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626973683689" />
+    <state x="404" y="360" key="SettingsEditor" timestamp="1627418358358">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="404" y="360" key="SettingsEditor/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1627418358358" />
+    <state x="1010" y="296" key="Vcs.Push.Dialog.v2" timestamp="1633813009280">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1010" y="296" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1628807255433" />
+    <state x="1010" y="296" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633813009280" />
+    <state x="573" y="223" key="com.intellij.database.dbimport.ImportDialog" timestamp="1633800596495">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="573" y="223" key="com.intellij.database.dbimport.ImportDialog/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633800596495" />
+    <state x="502" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626991330924">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="502" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626991330924" />
+    <state x="1235" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633515747606">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1235" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626973994762" />
+    <state x="1235" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1680.72.1680.1010@0.40.1920.1040" timestamp="1633515747606" />
+    <state x="619" y="303" width="672" height="685" key="search.everywhere.popup" timestamp="1626971969295">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="619" y="303" width="672" height="685" key="search.everywhere.popup/0.40.1920.1040/-1680.69.1680.1010@0.40.1920.1040" timestamp="1626971969295" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/lowprice.py" />
+    <entry file="file://$PROJECT_DIR$/bot/requests/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/bot/requests/get_details.json" />
+    <entry file="file://$PROJECT_DIR$/bot/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/data.py" />
+    <entry file="file://$PROJECT_DIR$/bot/requests/locale.json" />
+    <entry file="file://$PROJECT_DIR$/bot/requests/test.py" />
+    <entry file="file://$PROJECT_DIR$/my_venv/Lib/site-packages/telebot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="2453" column="21" selection-start-line="2453" selection-start-column="21" selection-end-line="2453" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/main_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/hotels.json" />
+    <entry file="file://$PROJECT_DIR$/bot/locale.json" />
+    <entry file="file://$PROJECT_DIR$/bot/quantity_test.json" />
+    <entry file="file://$PROJECT_DIR$/bot/hotels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="1455" column="28" lean-forward="true" selection-start-line="1455" selection-start-column="28" selection-end-line="1455" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/bestdeal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2673">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/log/logg.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1004" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ef1af265-edfc-46f4-92e6-ec0c7c2a49a4/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://ef1af265-edfc-46f4-92e6-ec0c7c2a49a4/schema/main/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1633517174897" presentationMode="TABLE" projectRestartId="5c303543-525c-4841-a8b8-8c1bf772ccbe" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ef1af265-edfc-46f4-92e6-ec0c7c2a49a4/schema/main/table/requests">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1633799798816" presentationMode="TABLE" projectRestartId="5c303543-525c-4841-a8b8-8c1bf772ccbe" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1e1d7524-7f49-4a19-a4a3-4f9f3faef5ea/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1e1d7524-7f49-4a19-a4a3-4f9f3faef5ea/schema/main/table/requests">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1633800209477" presentationMode="TABLE" projectRestartId="5c303543-525c-4841-a8b8-8c1bf772ccbe" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/highprice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/requests/lowprice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="71" column="17" lean-forward="true" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

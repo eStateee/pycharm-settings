@@ -1,0 +1,162 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="logs" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Log">
+      <summary usageCount="1" lastUsed="1669656133905" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="2" lastUsed="1669653951068" />
+    </fileType>
+    <fileType name="PythonStub">
+      <summary usageCount="1" lastUsed="1669654748944" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="8" lastUsed="1669654974063" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ha</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="LOG">
+      <summary usageCount="1" lastUsage="1669656133905" />
+    </language>
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1669653951068" />
+    </language>
+    <language id="PythonStub">
+      <summary usageCount="1" lastUsage="1669654748944" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="8" lastUsage="1669654974063" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5322000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5006139" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.46157685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1577" height="427" key="GridCell.Tab.0.bottom" timestamp="1669719004452">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="427" key="GridCell.Tab.0.bottom/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669719004452" />
+    <state width="1577" height="427" key="GridCell.Tab.0.center" timestamp="1669719004452">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="427" key="GridCell.Tab.0.center/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669719004452" />
+    <state width="1577" height="427" key="GridCell.Tab.0.left" timestamp="1669719004452">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="427" key="GridCell.Tab.0.left/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669719004452" />
+    <state width="1577" height="427" key="GridCell.Tab.0.right" timestamp="1669719004452">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="427" key="GridCell.Tab.0.right/0.40.2560.1400/-1680.161.1680.1010@0.40.2560.1400" timestamp="1669719004452" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/file_2022-11-28_19-57-17_131324.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/loguru/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116">
+          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/PySimpleGUI/PySimpleGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="19009" column="39" selection-start-line="19009" selection-start-column="34" selection-end-line="19009" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-972">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
